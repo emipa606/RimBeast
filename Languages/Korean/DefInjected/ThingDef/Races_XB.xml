@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<LanguageData>
+  <FTurtle.label>요새 거북</FTurtle.label>
+  <FTurtle.description>요새 거북은 이름 그대로 살아있는 요새입니다. 움직이는 벙커로 설계된 이 거대한 짐승은 메카노이드 침공 당시 병사들을 보호하기 위해 만들어졌습니다. 요새 거북의 등은 주기적으로 수확할 수 있는 껍데기가 자라납니다. 이 껍데기는 군용 합금의 재료로 사용됩니다.</FTurtle.description>
+  <FRaptor.label>깃털 랩터</FRaptor.label>
+  <FRaptor.description>조용하지만 교활하고, 우아하지만 무자비한 이 파충류들은 본래 와르그 과잉번식을 해결하기 위해 개발되었습니다. 하지만 다행히도 누군가 이미 막장이 된 생태계에 최고 포식자를 하나 더 풀어놓는 것이 아주 멍청한 짓이라는 걸 깨달은 관계로 프로젝트는 취소되었습니다. 이에 과학자들은 이 종을 기반으로 부자들의 애완동물을 개발했고, 그 덕에 이 랩터들은 형형색색의 깃털을 달고 있습니다.</FRaptor.description>
+  <Antis.label>사마개미</Antis.label>
+  <Antis.description>사마귀 개미는 인섹토이드 하이브의 전사 계급이며 소리없는 추적자이자 무자비한 살인마입니다. 이 종은 본래 메카노이드 침공을 막기 위해 창조되었지만 인간들에게도 마찬가지로 위험합니다. 군집성 동물이라 번식이 불가능합니다.</Antis.description>
+  <Gnawler.label>갉갉이</Gnawler.label>
+  <Gnawler.description>갉갉이는 인섹토이드 하이브의 "졸개" 계급으로 다른 전사 계급에 비하면 한참은 작은데다 혼자서는 그리 위험하지도 않습니다. 하지만 갉갉이가 여럿이 뭉쳐 무리를 이루고 있다면 상황은 달라지죠.</Gnawler.description>
+</LanguageData>

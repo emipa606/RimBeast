@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TO DO: Setup so that when butchered, feather raptors drop feather raptor feathers -->
+
+  <FortTurtle.label>fort turtle</FortTurtle.label>
+  <FortTurtle.labelPlural>fort turtles</FortTurtle.labelPlural>
+  <FortTurtle.lifeStages.0.label>fort turtle</FortTurtle.lifeStages.0.label>
+  <FortTurtle.lifeStages.0.labelPlural>fort turtle</FortTurtle.lifeStages.0.labelPlural>
+  <FortTurtle.lifeStages.0.labelMale>male fort turtle</FortTurtle.lifeStages.0.labelMale>
+  <FortTurtle.lifeStages.0.labelMalePlural>male fort turtles</FortTurtle.lifeStages.0.labelMalePlural>
+  <FortTurtle.lifeStages.0.labelFemale>female fort turtle</FortTurtle.lifeStages.0.labelFemale>
+  <FortTurtle.lifeStages.0.labelFemalePlural>female fort turtles</FortTurtle.lifeStages.0.labelFemalePlural>
+  <FortTurtle.lifeStages.1.label>fort turtle</FortTurtle.lifeStages.1.label>
+  <FortTurtle.lifeStages.1.labelPlural>fort turtle</FortTurtle.lifeStages.1.labelPlural>
+  <FortTurtle.lifeStages.1.labelMale>male fort turtle</FortTurtle.lifeStages.1.labelMale>
+  <FortTurtle.lifeStages.1.labelMalePlural>male fort turtles</FortTurtle.lifeStages.1.labelMalePlural>
+  <FortTurtle.lifeStages.1.labelFemale>female fort turtle</FortTurtle.lifeStages.1.labelFemale>
+  <FortTurtle.lifeStages.1.labelFemalePlural>female fort turtles</FortTurtle.lifeStages.1.labelFemalePlural>
+  <FortTurtle.lifeStages.2.label>fort turtle</FortTurtle.lifeStages.2.label>
+  <FortTurtle.lifeStages.2.labelPlural>fort turtle</FortTurtle.lifeStages.2.labelPlural>
+  <FortTurtle.lifeStages.2.labelMale>male fort turtle</FortTurtle.lifeStages.2.labelMale>
+  <FortTurtle.lifeStages.2.labelMalePlural>male fort turtles</FortTurtle.lifeStages.2.labelMalePlural>
+  <FortTurtle.lifeStages.2.labelFemale>female fort turtle</FortTurtle.lifeStages.2.labelFemale>
+  <FortTurtle.lifeStages.2.labelFemalePlural>female fort turtles</FortTurtle.lifeStages.2.labelFemalePlural>
+  <FortTurtle.labelMale>male fort turtle</FortTurtle.labelMale>
+  <FortTurtle.labelMalePlural>male fort turtles</FortTurtle.labelMalePlural>
+  <FortTurtle.labelFemale>female fort turtle</FortTurtle.labelFemale>
+  <FortTurtle.labelFemalePlural>female fort turtles</FortTurtle.labelFemalePlural>
+
+  <FRaptor.label>raptor</FRaptor.label>
+  <FRaptor.labelPlural>raptors</FRaptor.labelPlural>
+  <FRaptor.lifeStages.0.label>baby raptor</FRaptor.lifeStages.0.label>
+  <FRaptor.lifeStages.0.labelPlural>baby raptors</FRaptor.lifeStages.0.labelPlural>
+  <FRaptor.lifeStages.0.labelMale>male baby raptor</FRaptor.lifeStages.0.labelMale>
+  <FRaptor.lifeStages.0.labelMalePlural>male baby raptors</FRaptor.lifeStages.0.labelMalePlural>
+  <FRaptor.lifeStages.0.labelFemale>female baby raptor</FRaptor.lifeStages.0.labelFemale>
+  <FRaptor.lifeStages.0.labelFemalePlural>female baby raptors</FRaptor.lifeStages.0.labelFemalePlural>
+  <FRaptor.lifeStages.1.label>raptor</FRaptor.lifeStages.1.label>
+  <FRaptor.lifeStages.1.labelPlural>raptor</FRaptor.lifeStages.1.labelPlural>
+  <FRaptor.lifeStages.1.labelMale>male raptor</FRaptor.lifeStages.1.labelMale>
+  <FRaptor.lifeStages.1.labelMalePlural>male raptors</FRaptor.lifeStages.1.labelMalePlural>
+  <FRaptor.lifeStages.1.labelFemale>female raptor</FRaptor.lifeStages.1.labelFemale>
+  <FRaptor.lifeStages.1.labelFemalePlural>female raptors</FRaptor.lifeStages.1.labelFemalePlural>
+  <FRaptor.lifeStages.2.label>raptor</FRaptor.lifeStages.2.label>
+  <FRaptor.lifeStages.2.labelPlural>raptor</FRaptor.lifeStages.2.labelPlural>
+  <FRaptor.lifeStages.2.labelMale>male raptor</FRaptor.lifeStages.2.labelMale>
+  <FRaptor.lifeStages.2.labelMalePlural>male raptors</FRaptor.lifeStages.2.labelMalePlural>
+  <FRaptor.lifeStages.2.labelFemale>female raptor</FRaptor.lifeStages.2.labelFemale>
+  <FRaptor.lifeStages.2.labelFemalePlural>female raptors</FRaptor.lifeStages.2.labelFemalePlural>
+  <FRaptor.labelMale>male raptor</FRaptor.labelMale>
+  <FRaptor.labelMalePlural>male raptors</FRaptor.labelMalePlural>
+  <FRaptor.labelFemale>female raptor</FRaptor.labelFemale>
+  <FRaptor.labelFemalePlural>female raptors</FRaptor.labelFemalePlural>
+
+
+</LanguageData>

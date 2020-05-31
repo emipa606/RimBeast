@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Antis.label>antis</Antis.label>
+  <Antis.labelPlural>antiss</Antis.labelPlural>
+  <Antis.lifeStages.0.label>antis</Antis.lifeStages.0.label>
+  <Antis.lifeStages.0.labelPlural>antis</Antis.lifeStages.0.labelPlural>
+  <Antis.lifeStages.0.labelMale>male antis</Antis.lifeStages.0.labelMale>
+  <Antis.lifeStages.0.labelMalePlural>male antiss</Antis.lifeStages.0.labelMalePlural>
+  <Antis.lifeStages.0.labelFemale>female antis</Antis.lifeStages.0.labelFemale>
+  <Antis.lifeStages.0.labelFemalePlural>female antiss</Antis.lifeStages.0.labelFemalePlural>
+  <Antis.lifeStages.1.label>antis</Antis.lifeStages.1.label>
+  <Antis.lifeStages.1.labelPlural>antis</Antis.lifeStages.1.labelPlural>
+  <Antis.lifeStages.1.labelMale>male antis</Antis.lifeStages.1.labelMale>
+  <Antis.lifeStages.1.labelMalePlural>male antiss</Antis.lifeStages.1.labelMalePlural>
+  <Antis.lifeStages.1.labelFemale>female antis</Antis.lifeStages.1.labelFemale>
+  <Antis.lifeStages.1.labelFemalePlural>female antiss</Antis.lifeStages.1.labelFemalePlural>
+  <Antis.lifeStages.2.label>antis</Antis.lifeStages.2.label>
+  <Antis.lifeStages.2.labelPlural>antis</Antis.lifeStages.2.labelPlural>
+  <Antis.lifeStages.2.labelMale>male antis</Antis.lifeStages.2.labelMale>
+  <Antis.lifeStages.2.labelMalePlural>male antiss</Antis.lifeStages.2.labelMalePlural>
+  <Antis.lifeStages.2.labelFemale>female antis</Antis.lifeStages.2.labelFemale>
+  <Antis.lifeStages.2.labelFemalePlural>female antiss</Antis.lifeStages.2.labelFemalePlural>
+  <Antis.labelMale>male antis</Antis.labelMale>
+  <Antis.labelMalePlural>male antiss</Antis.labelMalePlural>
+  <Antis.labelFemale>female antis</Antis.labelFemale>
+  <Antis.labelFemalePlural>female antiss</Antis.labelFemalePlural>
+
+  <Gnawler.label>gnawler</Gnawler.label>
+  <Gnawler.labelPlural>gnawlers</Gnawler.labelPlural>
+  <Gnawler.lifeStages.0.label>gnawler</Gnawler.lifeStages.0.label>
+  <Gnawler.lifeStages.0.labelPlural>gnawler</Gnawler.lifeStages.0.labelPlural>
+  <Gnawler.lifeStages.0.labelMale>male gnawler</Gnawler.lifeStages.0.labelMale>
+  <Gnawler.lifeStages.0.labelMalePlural>male gnawlers</Gnawler.lifeStages.0.labelMalePlural>
+  <Gnawler.lifeStages.0.labelFemale>female gnawler</Gnawler.lifeStages.0.labelFemale>
+  <Gnawler.lifeStages.0.labelFemalePlural>female gnawlers</Gnawler.lifeStages.0.labelFemalePlural>
+  <Gnawler.lifeStages.1.label>gnawler</Gnawler.lifeStages.1.label>
+  <Gnawler.lifeStages.1.labelPlural>gnawler</Gnawler.lifeStages.1.labelPlural>
+  <Gnawler.lifeStages.1.labelMale>male gnawler</Gnawler.lifeStages.1.labelMale>
+  <Gnawler.lifeStages.1.labelMalePlural>male gnawlers</Gnawler.lifeStages.1.labelMalePlural>
+  <Gnawler.lifeStages.1.labelFemale>female gnawler</Gnawler.lifeStages.1.labelFemale>
+  <Gnawler.lifeStages.1.labelFemalePlural>female gnawlers</Gnawler.lifeStages.1.labelFemalePlural>
+  <Gnawler.lifeStages.2.label>gnawler</Gnawler.lifeStages.2.label>
+  <Gnawler.lifeStages.2.labelPlural>gnawler</Gnawler.lifeStages.2.labelPlural>
+  <Gnawler.lifeStages.2.labelMale>male gnawler</Gnawler.lifeStages.2.labelMale>
+  <Gnawler.lifeStages.2.labelMalePlural>male gnawlers</Gnawler.lifeStages.2.labelMalePlural>
+  <Gnawler.lifeStages.2.labelFemale>female gnawler</Gnawler.lifeStages.2.labelFemale>
+  <Gnawler.lifeStages.2.labelFemalePlural>female gnawlers</Gnawler.lifeStages.2.labelFemalePlural>
+  <Gnawler.labelMale>male gnawler</Gnawler.labelMale>
+  <Gnawler.labelMalePlural>male gnawlers</Gnawler.labelMalePlural>
+  <Gnawler.labelFemale>female gnawler</Gnawler.labelFemale>
+  <Gnawler.labelFemalePlural>female gnawlers</Gnawler.labelFemalePlural>
+
+
+</LanguageData>

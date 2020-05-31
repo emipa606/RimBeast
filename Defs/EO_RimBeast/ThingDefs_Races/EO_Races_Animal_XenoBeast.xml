@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- TO DO: Setup so that when butchered, dragons drop scales -->
+  <!-- TO DO: Setup so that when butchered, feather raptors drop feather raptor feathers -->
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>FTurtle</defName>
+    <label>fortress turtle</label>
+    <description>The fortress turtle is a living citadel. Designed to moving bunker, this behemoth estimated to be created for protecting soldiers while mechanoid invasion. Fort turtle has periodically harvestable shells. This shell furnishes material for military composite alloy. Reliable protector and strong porter, fort turtle will be your great companion.</description>
+    <statBases>
+      <MoveSpeed>1.0</MoveSpeed>
+      <ArmorRating_Blunt>0.7</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <MarketValue>2450</MarketValue>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <defaultCooldownTime>2.4</defaultCooldownTime>
+        <meleeDamageBaseAmount>15</meleeDamageBaseAmount>
+        <meleeDamageDef>Bite</meleeDamageDef>
+        <linkedBodyPartsGroup>TurtleBeakAttackTool</linkedBodyPartsGroup>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Shearable">
+        <woolDef>FTurtleShell</woolDef>
+        <shearIntervalDays>42</shearIntervalDays>
+        <woolAmount>75</woolAmount>
+      </li>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>EggFTurtleFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>90</eggLayIntervalDays>
+        <eggCountRange>1</eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <herdAnimal>false</herdAnimal>
+      <body>FTurtleLike</body>
+      <baseBodySize>5</baseBodySize>
+      <baseHungerRate>1.1</baseHungerRate>
+      <baseHealthScale>4.6</baseHealthScale>
+      <foodType>OmnivoreRoughAnimal</foodType>
+      <leatherDef>Leather_Lizard</leatherDef>
+      <wildness>0.2</wildness>
+      <nameOnNuzzleChance>0</nameOnNuzzleChance>
+      <trainability>Advanced</trainability>
+      <manhunterOnDamageChance>0.1</manhunterOnDamageChance>
+      <manhunterOnTameFailChance>0.002</manhunterOnTameFailChance>
+      <gestationPeriodDays>60</gestationPeriodDays>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(1, 1)</li>
+          <li>(3, 1)</li>
+          <li>(3.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>250</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.8</minAge>
+          <soundWounded>Pawn_Tortoise_Wounded</soundWounded>
+          <soundDeath>Pawn_Tortoise_Death</soundDeath>
+          <soundCall>Pawn_Tortoise_Call</soundCall>
+          <soundAngry>Pawn_Tortoise_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>FortTurtle</defName>
+    <label>fort turtle</label>
+    <race>FTurtle</race>
+    <combatPower>280</combatPower>
+    <ecoSystemWeight>0</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <color>(255,255,255)</color>
+          <texPath>RimBeast/Pawn/Animal/FortressTurtle/Base/FortressTurtle</texPath>
+          <drawSize>1</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Tortoise/Dessicated_Tortoise</texPath>
+          <drawSize>0.9</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <shadowData>
+            <volume>(0.5, 0.4, 0.2)</volume>
+            <offset>(0,0,-0.1)</offset>
+          </shadowData>
+          <color>(255,255,255)</color>
+          <texPath>RimBeast/Pawn/Animal/FortressTurtle/Base/FortressTurtle</texPath>
+          <drawSize>2</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Tortoise/Dessicated_Tortoise</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <shadowData>
+            <volume>(0.9, 0.7, 0.5)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+          <color>(255,255,255)</color>
+          <texPath>RimBeast/Pawn/Animal/FortressTurtle/Base/FortressTurtle</texPath>
+          <drawSize>3</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Tortoise/Dessicated_Tortoise</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!-- ====================================================== -->
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>FRaptor</defName>
+    <label>feather raptor</label>
+    <description>Quiet and cunning, elegant but ruthless, these reptile species were originally developed to resolve warg increasing problem. Fortunately, after someone realized that adding another alpha predator doesn't help already broken ecosystem, the project was canceled. After the original project cancelled, scientists started a new product development project, which making a pet of rich people. Because of that, now these raptors have colorful feathers.</description>
+    <statBases>
+      <MoveSpeed>4.90</MoveSpeed>
+      <ComfyTemperatureMin>-35</ComfyTemperatureMin>
+      <MarketValue>1450</MarketValue>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <defaultCooldownTime>1.65</defaultCooldownTime>
+        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
+        <meleeDamageDef>Scratch</meleeDamageDef>
+        <linkedBodyPartsGroup>LeftLegClaws</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <defaultCooldownTime>1.65</defaultCooldownTime>
+        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
+        <meleeDamageDef>Scratch</meleeDamageDef>
+        <linkedBodyPartsGroup>RightLegClaws</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <defaultCooldownTime>1.65</defaultCooldownTime>
+        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
+        <meleeDamageDef>Scratch</meleeDamageDef>
+        <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <defaultCooldownTime>1.65</defaultCooldownTime>
+        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
+        <meleeDamageDef>Scratch</meleeDamageDef>
+        <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <defaultCooldownTime>2.05</defaultCooldownTime>
+        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
+        <meleeDamageDef>Bite</meleeDamageDef>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Shearable">
+        <woolDef>Rfeather</woolDef>
+        <shearIntervalDays>30</shearIntervalDays>
+        <woolAmount>60</woolAmount>
+      </li>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>EggFRaptorFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>60</eggLayIntervalDays>
+        <eggCountRange>
+          <min>1</min>
+          <max>1</max>
+        </eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>RaptorLike</body>
+      <petness>0.3</petness>
+      <baseBodySize>1.2</baseBodySize>
+      <baseHungerRate>0.7</baseHungerRate>
+      <baseHealthScale>1.4</baseHealthScale>
+      <foodType>CarnivoreAnimalStrict</foodType>
+      <leatherDef>Leather_Lizard</leatherDef>
+      <gestationPeriodDays>45</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0.45</wildness>
+      <manhunterOnDamageChance>1</manhunterOnDamageChance>
+      <manhunterOnTameFailChance>0.005</manhunterOnTameFailChance>
+      <nameOnNuzzleChance>0.5</nameOnNuzzleChance>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(1, 1)</li>
+          <li>(2, 1.7)</li>
+          <li>(3, 0.7)</li>
+          <li>(3.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>40</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.15</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.8</minAge>
+          <soundWounded>Pawn_Raptor_Wounded</soundWounded>
+          <soundDeath>Pawn_Raptor_Death</soundDeath>
+          <soundCall>Pawn_Raptor_Call</soundCall>
+          <soundAngry>Pawn_Raptor_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>FRaptor</defName>
+    <label>raptor</label>
+    <race>FRaptor</race>
+    <combatPower>155</combatPower>
+    <lifeStages>
+      <li>
+        <label>baby raptor</label>
+        <bodyGraphicData>
+          <texPath>RimBeast/Pawn/Animal/FeatherRaptor/Base/FeatherRaptor</texPath>
+          <drawSize>1</drawSize>
+          <color>(152,50,130)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Ostrich/Dessicated_Ostrich</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>RimBeast/Pawn/Animal/FeatherRaptor/Base/FeatherRaptor</texPath>
+          <drawSize>1.5</drawSize>
+          <color>(83,154,105)</color>
+          <shadowData>
+            <volume>(0.15, 0.2, 0.45)</volume>
+            <offset>(0,0,-0.4)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Ostrich/Dessicated_Ostrich</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>RimBeast/Pawn/Animal/FeatherRaptor/Base/FeatherRaptor</texPath>
+          <drawSize>2.0</drawSize>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.5)</volume>
+            <offset>(0,0,-0.4)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Ostrich/Dessicated_Ostrich</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+    <ecoSystemWeight>0.3</ecoSystemWeight>
+    <wildGroupSize>
+      <min>2</min>
+      <max>4</max>
+    </wildGroupSize>
+  </PawnKindDef>
+</Defs>

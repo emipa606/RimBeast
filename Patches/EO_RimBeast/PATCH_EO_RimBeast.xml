@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- This PATCH FILE patches all ThingDef_Items\ for OG assets -->
+  <!-- BiomeDefs\Biomes_Arid.xml -->
+  <!-- AridShrubland -->
+  <!-- Placeholder: INSERT wildAnimals -->
+  <Operation Class="PatchOperationInsert">
+    <xpath>*/BiomeDef[defName = "AridShrubland"]/wildAnimals/Megasloth</xpath>
+    <value>
+      <FortTurtle>0.01</FortTurtle>
+      <FRaptor>0.03</FRaptor>
+      <Antis>0.01</Antis>
+      <Gnawler>0.01</Gnawler>
+    </value>
+  </Operation>
+  <!-- Desert -->
+  <!-- Placeholder: INSERT wildAnimals -->
+  <Operation Class="PatchOperationInsert">
+    <xpath>*/BiomeDef[defName = "Desert"]/wildAnimals/Gazelle</xpath>
+    <value>
+      <Antis>0.01</Antis>
+      <Gnawler>0.01</Gnawler>
+    </value>
+  </Operation>
+  <!-- ExtremeDesert -->
+  <!-- Placeholder: INSERT wildAnimals -->
+  <Operation Class="PatchOperationInsert">
+    <xpath>*/BiomeDef[defName = "ExtremeDesert"]/wildAnimals/Iguana</xpath>
+    <value>
+      <Antis>0.1</Antis>
+      <Gnawler>0.1</Gnawler>
+    </value>
+  </Operation>
+  <!-- BiomeDefs\Biomes_Temperate.xml -->
+  <!-- TemperateForest -->
+  <!-- Placeholder: INSERT wildAnimals -->
+  <Operation Class="PatchOperationInsert">
+    <xpath>*/BiomeDef[defName = "TemperateForest"]/wildAnimals/Hare</xpath>
+    <value>
+      <FortTurtle>0.2</FortTurtle>
+      <FRaptor>0.012</FRaptor>
+      <Antis>0.012</Antis>
+      <Gnawler>0.012</Gnawler>
+    </value>
+  </Operation>
+  <!-- BiomeDefs\Biomes_Warm.xml -->
+  <!-- TropicalRainforest -->
+  <!-- Placeholder: INSERT wildAnimals -->
+  <Operation Class="PatchOperationInsert">
+    <xpath>*/BiomeDef[defName = "TropicalRainforest"]/wildAnimals/Rat</xpath>
+    <value>
+      <FortTurtle>0.3</FortTurtle>
+      <FRaptor>0.09</FRaptor>
+      <Antis>0.09</Antis>
+      <Gnawler>0.09</Gnawler>
+    </value>
+  </Operation>
+</Patch>

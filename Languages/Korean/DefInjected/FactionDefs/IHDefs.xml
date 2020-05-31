@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<LanguageData>
+  <Insectoid.label>인섹토이드 하이브</Insectoid.label>
+  <Insectoid.description>유전자 조작 곤충으로 이루어진 둥지입니다. 본래 메카노이드 침공을 저지하기 위해 만들어졌는데, 이 곤충들을 창조한 과학자들은 개발 과정에서 메카노이드의 하이브 마인드 시스템을 이들의 사회체계에 적용했습니다. 불행히도 그 때문인지 이 새로운 종족은 완전히 통제를 벗어나 인류의 생존에 대한 또다른 위협으로 변하였습니다.</Insectoid.description>
+  <Insectoid.pawnsPlural>인섹토이드</Insectoid.pawnsPlural>
+  <Insectoid.fixedName>인섹토이드 군락</Insectoid.fixedName>
+</LanguageData>
