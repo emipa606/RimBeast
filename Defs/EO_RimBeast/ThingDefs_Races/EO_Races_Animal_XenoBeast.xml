@@ -13,15 +13,17 @@
       <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <MarketValue>2450</MarketValue>
     </statBases>
-    <verbs>
+    <tools>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>2.4</defaultCooldownTime>
-        <meleeDamageBaseAmount>15</meleeDamageBaseAmount>
-        <meleeDamageDef>Bite</meleeDamageDef>
+        <label>beak</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>15</power>
+        <cooldownTime>2.4</cooldownTime>
         <linkedBodyPartsGroup>TurtleBeakAttackTool</linkedBodyPartsGroup>
       </li>
-    </verbs>
+    </tools>
     <comps>
       <li Class="CompProperties_Shearable">
         <woolDef>FTurtleShell</woolDef>
@@ -141,43 +143,53 @@
       <ComfyTemperatureMin>-35</ComfyTemperatureMin>
       <MarketValue>1450</MarketValue>
     </statBases>
-    <verbs>
+    <tools>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.65</defaultCooldownTime>
-        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
-        <meleeDamageDef>Scratch</meleeDamageDef>
+        <label>left leg claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>1.65</cooldownTime>
         <linkedBodyPartsGroup>LeftLegClaws</linkedBodyPartsGroup>
       </li>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.65</defaultCooldownTime>
-        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
-        <meleeDamageDef>Scratch</meleeDamageDef>
+        <label>right leg claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>1.65</cooldownTime>
         <linkedBodyPartsGroup>RightLegClaws</linkedBodyPartsGroup>
       </li>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.65</defaultCooldownTime>
-        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
-        <meleeDamageDef>Scratch</meleeDamageDef>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>1.65</cooldownTime>
         <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
       </li>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.65</defaultCooldownTime>
-        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
-        <meleeDamageDef>Scratch</meleeDamageDef>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>1.65</cooldownTime>
         <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
       </li>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>2.05</defaultCooldownTime>
-        <meleeDamageBaseAmount>12</meleeDamageBaseAmount>
-        <meleeDamageDef>Bite</meleeDamageDef>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>12</power>
+        <cooldownTime>2.05</cooldownTime>
         <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <chanceFactor>0.7</chanceFactor>
       </li>
-    </verbs>
+    </tools>
     <comps>
       <li Class="CompProperties_Shearable">
         <woolDef>Rfeather</woolDef>

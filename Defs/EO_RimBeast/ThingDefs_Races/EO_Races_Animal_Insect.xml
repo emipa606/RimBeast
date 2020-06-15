@@ -13,29 +13,35 @@
       <MarketValue>300</MarketValue>
       <LeatherAmount>0</LeatherAmount>
     </statBases>
-    <verbs>
+    <tools>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.85</defaultCooldownTime>
-        <meleeDamageBaseAmount>7</meleeDamageBaseAmount>
-        <meleeDamageDef>Bite</meleeDamageDef>
+        <label>mandibles</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>2</cooldownTime>
         <linkedBodyPartsGroup>Mouth</linkedBodyPartsGroup>
       </li>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.65</defaultCooldownTime>
-        <meleeDamageBaseAmount>10</meleeDamageBaseAmount>
-        <meleeDamageDef>Cut</meleeDamageDef>
+        <label>left foreleg</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
         <linkedBodyPartsGroup>LeftAntisForeleg</linkedBodyPartsGroup>
       </li>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.65</defaultCooldownTime>
-        <meleeDamageBaseAmount>10</meleeDamageBaseAmount>
-        <meleeDamageDef>Cut</meleeDamageDef>
+        <label>right foreleg</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
         <linkedBodyPartsGroup>RightAntisForeleg</linkedBodyPartsGroup>
       </li>
-    </verbs>
+    </tools>
     <race>
       <body>Antis</body>
       <baseBodySize>1</baseBodySize>
@@ -131,15 +137,17 @@
       <MarketValue>80</MarketValue>
       <LeatherAmount>0</LeatherAmount>
     </statBases>
-    <verbs>
+    <tools>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>1.85</defaultCooldownTime>
-        <meleeDamageBaseAmount>7</meleeDamageBaseAmount>
-        <meleeDamageDef>Bite</meleeDamageDef>
+        <label>mandibles</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.85</cooldownTime>
         <linkedBodyPartsGroup>Mouth</linkedBodyPartsGroup>
       </li>
-    </verbs>
+    </tools>
     <race>
       <body>BeetleLike</body>
       <baseBodySize>0.2</baseBodySize>
