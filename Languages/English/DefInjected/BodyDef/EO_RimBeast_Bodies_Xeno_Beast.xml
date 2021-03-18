@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <FTurtleLike.label>FTurtleLike</FTurtleLike.label>
   <FTurtleLike.corePart.parts.5.customLabel>left lung</FTurtleLike.corePart.parts.5.customLabel>
   <FTurtleLike.corePart.parts.6.customLabel>right lung</FTurtleLike.corePart.parts.6.customLabel>
@@ -12,7 +11,6 @@
   <FTurtleLike.corePart.parts.12.customLabel>front right leg</FTurtleLike.corePart.parts.12.customLabel>
   <FTurtleLike.corePart.parts.13.customLabel>rear left leg</FTurtleLike.corePart.parts.13.customLabel>
   <FTurtleLike.corePart.parts.14.customLabel>rear right leg</FTurtleLike.corePart.parts.14.customLabel>
-
   <RaptorLike.label>RaptorLike</RaptorLike.label>
   <RaptorLike.corePart.parts.4.customLabel>left lung</RaptorLike.corePart.parts.4.customLabel>
   <RaptorLike.corePart.parts.5.customLabel>right lung</RaptorLike.corePart.parts.5.customLabel>
@@ -34,6 +32,4 @@
   <RaptorLike.corePart.parts.13.parts.1.customLabel>right second claw</RaptorLike.corePart.parts.13.parts.1.customLabel>
   <RaptorLike.corePart.parts.13.parts.2.customLabel>right third claw</RaptorLike.corePart.parts.13.parts.2.customLabel>
   <RaptorLike.corePart.parts.13.parts.3.customLabel>right fourth claw</RaptorLike.corePart.parts.13.parts.3.customLabel>
-
-
 </LanguageData>

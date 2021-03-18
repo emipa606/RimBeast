@@ -1,18 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- TO DO: Setup so that when butchered, feather raptors drop feather raptor feathers -->
-
   <FTurtle.label>fortress turtle</FTurtle.label>
   <FTurtle.description>The fortress turtle is a living citadel. Designed to moving bunker, this behemoth estimated to be created for protecting soldiers while mechanoid invasion. Fort turtle has periodically harvestable shells. This shell furnishes material for military composite alloy. Reliable protector and strong porter, fort turtle will be your great companion.</FTurtle.description>
   <FTurtle.tools.0.label>beak</FTurtle.tools.0.label>
-
   <FRaptor.label>feather raptor</FRaptor.label>
   <FRaptor.description>Quiet and cunning, elegant but ruthless, these reptile species were originally developed to resolve warg increasing problem. Fortunately, after someone realized that adding another alpha predator doesn't help already broken ecosystem, the project was canceled. After the original project cancelled, scientists started a new product development project, which making a pet of rich people. Because of that, now these raptors have colorful feathers.</FRaptor.description>
   <FRaptor.tools.0.label>left leg claw</FRaptor.tools.0.label>
   <FRaptor.tools.1.label>right leg claw</FRaptor.tools.1.label>
   <FRaptor.tools.2.label>left claw</FRaptor.tools.2.label>
   <FRaptor.tools.3.label>right claw</FRaptor.tools.3.label>
-
-
 </LanguageData>

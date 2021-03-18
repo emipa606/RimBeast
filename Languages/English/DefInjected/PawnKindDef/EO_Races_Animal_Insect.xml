@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Antis.label>antis</Antis.label>
   <Antis.labelPlural>antiss</Antis.labelPlural>
   <Antis.lifeStages.0.label>antis</Antis.lifeStages.0.label>
@@ -25,7 +24,6 @@
   <Antis.labelMalePlural>male antiss</Antis.labelMalePlural>
   <Antis.labelFemale>female antis</Antis.labelFemale>
   <Antis.labelFemalePlural>female antiss</Antis.labelFemalePlural>
-
   <Gnawler.label>gnawler</Gnawler.label>
   <Gnawler.labelPlural>gnawlers</Gnawler.labelPlural>
   <Gnawler.lifeStages.0.label>gnawler</Gnawler.lifeStages.0.label>
@@ -50,6 +48,4 @@
   <Gnawler.labelMalePlural>male gnawlers</Gnawler.labelMalePlural>
   <Gnawler.labelFemale>female gnawler</Gnawler.labelFemale>
   <Gnawler.labelFemalePlural>female gnawlers</Gnawler.labelFemalePlural>
-
-
 </LanguageData>

@@ -10,22 +10,23 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of rooki1s mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of rooki1s mod
 https://ludeon.com/forums/index.php?topic=16037.0
+Used the A17 update by The-Eroks
+https://ludeon.com/forums/index.php?topic=35038.0
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/RimBeast
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/RimBeast][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- A17 version ---
-Updated by The-Eroks
-The Hunt Begins - Mankind played god's role for so many years. In consequence, it's not hard to find the presence of gene modified species even in far rimworlds. But finding them is one thing, and to confront them is another.
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
---- Original Description ---
 This mod adds various species.
 
 Xeno beast
@@ -48,5 +49,18 @@ A hive of gene-modified insects. Originally made for fight against Mechanoid inv
 Antis: A quiet stalker and merciless killer, Ant mantis is a warrior caste of the insectoid hive. This species were created to beat the Mechanoid invasion, but it is dangerous to people, too. A social creature, it cannot reproduce individually.
 
 
-Gnawler: A "grunt" caste of the insectoid hive, gnawler is a much smaller than other warrior caste, and on its own it doesn't seem dangerous. However, if many gnawlers are grouped together, things change. A social creature, it cannot reproduce individually.</description>
+Gnawler: A "grunt" caste of the insectoid hive, gnawler is a much smaller than other warrior caste, and on its own it doesn't seem dangerous. However, if many gnawlers are grouped together, things change. A social creature, it cannot reproduce individually.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

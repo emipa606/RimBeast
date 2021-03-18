@@ -1,15 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Antis.label>antis</Antis.label>
   <Antis.description>A quiet stalker and merciless killer, the ant mantis is a warrior caste of the insectoid hive. This species were created to beat the Mechanoid invasion, but it is dangerous to people, too. A social creature, it cannot reproduce individually.</Antis.description>
   <Antis.tools.0.label>mandibles</Antis.tools.0.label>
   <Antis.tools.1.label>left foreleg</Antis.tools.1.label>
   <Antis.tools.2.label>right foreleg</Antis.tools.2.label>
-
   <Gnawler.label>gnawler</Gnawler.label>
   <Gnawler.description>A "grunt" caste of the insectoid hive, gnawler is a much smaller than other warrior caste, and on its own it doesn't seem dangerous. However, if many gnawlers are grouped together, things change. A social creature, it cannot reproduce individually.</Gnawler.description>
   <Gnawler.tools.0.label>mandibles</Gnawler.tools.0.label>
-
-
 </LanguageData>

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Antis.label>antis</Antis.label>
   <Antis.corePart.parts.0.customLabel>left elytra</Antis.corePart.parts.0.customLabel>
   <Antis.corePart.parts.1.customLabel>right elytra</Antis.corePart.parts.1.customLabel>
@@ -14,6 +13,4 @@
   <Antis.corePart.parts.6.customLabel>front right leg</Antis.corePart.parts.6.customLabel>
   <Antis.corePart.parts.7.customLabel>rear left leg</Antis.corePart.parts.7.customLabel>
   <Antis.corePart.parts.8.customLabel>rear right leg</Antis.corePart.parts.8.customLabel>
-
-
 </LanguageData>

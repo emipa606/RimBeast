@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- TO DO: Setup so that when butchered, feather raptors drop feather raptor feathers -->
-
   <FortTurtle.label>fort turtle</FortTurtle.label>
   <FortTurtle.labelPlural>fort turtles</FortTurtle.labelPlural>
   <FortTurtle.lifeStages.0.label>fort turtle</FortTurtle.lifeStages.0.label>
@@ -27,7 +25,6 @@
   <FortTurtle.labelMalePlural>male fort turtles</FortTurtle.labelMalePlural>
   <FortTurtle.labelFemale>female fort turtle</FortTurtle.labelFemale>
   <FortTurtle.labelFemalePlural>female fort turtles</FortTurtle.labelFemalePlural>
-
   <FRaptor.label>raptor</FRaptor.label>
   <FRaptor.labelPlural>raptors</FRaptor.labelPlural>
   <FRaptor.lifeStages.0.label>baby raptor</FRaptor.lifeStages.0.label>
@@ -52,6 +49,4 @@
   <FRaptor.labelMalePlural>male raptors</FRaptor.labelMalePlural>
   <FRaptor.labelFemale>female raptor</FRaptor.labelFemale>
   <FRaptor.labelFemalePlural>female raptors</FRaptor.labelFemalePlural>
-
-
 </LanguageData>
