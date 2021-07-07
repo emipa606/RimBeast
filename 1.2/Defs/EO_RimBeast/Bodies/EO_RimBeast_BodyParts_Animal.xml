@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BodyPartDef>
+    <defName>LegMainClaw</defName>
+    <label>main claw</label>
+    <hitPoints>7</hitPoints>
+    <frostbiteVulnerability>10</frostbiteVulnerability>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+    <bleedRate>0</bleedRate>
+    <alive>false</alive>
+    <tags>
+      <li>MovingLimbDigit</li>
+      <li>ManipulationLimbDigit</li>
+    </tags>
+  </BodyPartDef>
+  <BodyPartDef>
+    <defName>LegClaw</defName>
+    <label>claw</label>
+    <hitPoints>7</hitPoints>
+    <frostbiteVulnerability>10</frostbiteVulnerability>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+    <bleedRate>0</bleedRate>
+    <alive>false</alive>
+    <tags>
+      <li>MovingLimbDigit</li>
+    </tags>
+  </BodyPartDef>
+</Defs>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="EggFertBase">
+    <!-- [Animal: Feather Raptor] RimBeast (Updated for EO V01 B07) - Item, Animal Product (Egg) - Egg, Feather Raptor, Fertilized -->
+    <defName>EggFRaptorFertilized</defName>
+    <label>raptor egg (fert.)</label>
+    <description>Fertilized raptor egg. If all goes well, it should hatch into a baby feather raptor. It can be eaten raw, but it's much better cooked.</description>
+    <tickerType>Normal</tickerType>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggBirdSmall</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(245,100,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>20.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>10</hatcherDaystoHatch>
+        <hatcherPawn>FRaptor</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <!-- [Animal: Fortress Turtle] RimBeast (Updated for EO V01 B07) - Item, Animal Product (Egg) - Egg, Fortress Turtle, Fertilized -->
+    <defName>EggFTurtleFertilized</defName>
+    <label>fortress turtle egg (fert.)</label>
+    <description>Fertilized fortress turtle egg. If all goes well, it should hatch into a baby fortress turtle. It can be eaten raw, but it's much better cooked.</description>
+    <tickerType>Normal</tickerType>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggBirdSmall</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(100,220,50)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>40.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>13</hatcherDaystoHatch>
+        <hatcherPawn>FortTurtle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>
