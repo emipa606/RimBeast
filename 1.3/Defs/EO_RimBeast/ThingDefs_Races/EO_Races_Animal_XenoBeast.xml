@@ -12,6 +12,7 @@
       <ArmorRating_Sharp>0.75</ArmorRating_Sharp>
       <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <MarketValue>2450</MarketValue>
+      <CaravanRidingSpeedFactor>0.6</CaravanRidingSpeedFactor>
     </statBases>
     <tools>
       <li>
@@ -39,6 +40,7 @@
     </comps>
     <race>
       <herdAnimal>false</herdAnimal>
+      <herdMigrationAllowed>false</herdMigrationAllowed>
       <body>FTurtleLike</body>
       <baseBodySize>5</baseBodySize>
       <baseHungerRate>1.1</baseHungerRate>
@@ -81,6 +83,9 @@
       <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
+    <tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
     <defName>FortTurtle</defName>
@@ -141,6 +146,7 @@
       <MoveSpeed>4.90</MoveSpeed>
       <ComfyTemperatureMin>-35</ComfyTemperatureMin>
       <MarketValue>1450</MarketValue>
+      <FilthRate>4</FilthRate>
     </statBases>
     <tools>
       <li>
@@ -207,6 +213,7 @@
     </comps>
     <race>
       <body>RaptorLike</body>
+      <herdMigrationAllowed>true</herdMigrationAllowed>
       <petness>0.3</petness>
       <baseBodySize>1.2</baseBodySize>
       <baseHungerRate>0.7</baseHungerRate>
@@ -251,6 +258,9 @@
       <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
+    <tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
     <defName>FRaptor</defName>

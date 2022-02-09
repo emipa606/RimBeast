@@ -49,6 +49,7 @@
       <baseHealthScale>1.2</baseHealthScale>
       <useMeatFrom>Megaspider</useMeatFrom>
       <wildness>0.99</wildness>
+      <trainability>Advanced</trainability>
       <manhunterOnTameFailChance>1</manhunterOnTameFailChance>
       <manhunterOnDamageChance>1</manhunterOnDamageChance>
       <lifeExpectancy>12</lifeExpectancy>
@@ -74,6 +75,9 @@
       <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
+    <tradeTags>
+      <li>AnimalInsect</li>
+    </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
     <!-- [Animal: Antis] [PAWN] RIMBEAST (Unchanged) - Animal, Vermin, Insect (Mega Insect) Insect, Antis -->
@@ -154,6 +158,7 @@
       <baseHealthScale>0.5</baseHealthScale>
       <useMeatFrom>Megaspider</useMeatFrom>
       <wildness>0.99</wildness>
+      <trainability>Intermediate</trainability>
       <manhunterOnTameFailChance>1</manhunterOnTameFailChance>
       <manhunterOnDamageChance>1</manhunterOnDamageChance>
       <lifeExpectancy>8</lifeExpectancy>
@@ -179,6 +184,9 @@
       <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
+    <tradeTags>
+      <li>AnimalInsect</li>
+    </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
     <!-- [Animal: Gnawler] [PAWN] RIMBEAST (Unchanged) - Animal, Vermin, Insect (Mega Insect) Insect, Gnawler -->

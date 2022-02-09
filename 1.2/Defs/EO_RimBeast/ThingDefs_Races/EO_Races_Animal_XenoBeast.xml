@@ -82,6 +82,9 @@
       <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
+    <tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
     <defName>FortTurtle</defName>
