@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <!-- RimBeast (Updated for EO V01 B06) - Exotic Item (Animal Shell) Shell, Fortress Turtle -->
+    <defName>FTurtleShell</defName>
+    <label>shell (fortress turtle)</label>
+    <description>A shell that was harvested from fortress turtle. Light, but as strong metal, this organic super material is used for building various arms and armor.</description>
+    <graphicData>
+      <texPath>RimBeast/Items/Exotic/Shell_FortressTurtle/Shell_FortressTurtle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MarketValue>13.0</MarketValue>
+      <StuffPower_Armor_Sharp>1.24</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.65</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>0.85</StuffPower_Armor_Heat>
+      <SharpDamageMultiplier>1.1</SharpDamageMultiplier>
+      <BluntDamageMultiplier>1.1</BluntDamageMultiplier>
+      <Mass>3.0</Mass>
+    </statBases>
+    <useHitPoints>false</useHitPoints>
+    <slagDef>ChunkSlagSteel</slagDef>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <smeltable>true</smeltable>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(100,145, 50)</color>
+      <soundImpactBullet>BulletImpact_Metal</soundImpactBullet>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statFactors>
+        <MaxHitPoints>1.5</MaxHitPoints>
+        <Beauty>1</Beauty>
+        <Flammability>0.2</Flammability>
+        <MeleeWeapon_CooldownMultiplier>1</MeleeWeapon_CooldownMultiplier>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <!-- RimBeast (Updated for EO V01 B06) - Exotic Item (Animal Feather) Feather, Feather Raptor -->
+    <defName>Rfeather</defName>
+    <label>raptor feather</label>
+    <description>Colorful feathers that harvested from feather raptor. The feathers are very useful in the design of apparel for their ability to both insulate against cold and easily breathe against heat.</description>
+    <graphicData>
+      <texPath>RimBeast/Items/Exotic/Feather_FeatherRaptor/Feather_FeatherRaptor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <MarketValue>8</MarketValue>
+      <Flammability>0.95</Flammability>
+      <DeteriorationRate>1.0</DeteriorationRate>
+      <Mass>0.1</Mass>
+      <StuffPower_Armor_Sharp>0.36</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.00</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>22</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>34</StuffPower_Insulation_Heat>
+    </statBases>
+    <stackLimit>100</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <color>(150,50,180)</color>
+      <statOffsets>
+        <ArmorRating_Heat>0.06</ArmorRating_Heat>
+      </statOffsets>
+      <statFactors>
+        <ArmorRating_Heat>1.3</ArmorRating_Heat>
+        <Insulation_Cold>2.5</Insulation_Cold>
+        <Insulation_Heat>2.5</Insulation_Heat>
+      </statFactors>
+    </stuffProps>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

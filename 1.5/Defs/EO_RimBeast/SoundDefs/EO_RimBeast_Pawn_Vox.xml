@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Pawn_Raptor_Wounded</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>1</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>RimBeast/Things/RaptorWound</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>5</min>
+          <max>10</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9541177</min>
+          <max>1.068824</max>
+        </pitchRange>
+        <repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Raptor_Death</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>RimBeast/Things/RaptorDead</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>5</min>
+          <max>10</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9311765</min>
+          <max>1.045882</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Raptor_Call</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>RimBeast/Things/RaptorCall</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>5</min>
+          <max>10</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9311765</min>
+          <max>1.045882</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Pawn_Raptor_Angry</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>1</maxVoices>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>RimBeast/Things/RaptorAngry</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>5</min>
+          <max>10</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.9541177</min>
+          <max>1.068824</max>
+        </pitchRange>
+        <repeatMode>NeverTwice</repeatMode>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
