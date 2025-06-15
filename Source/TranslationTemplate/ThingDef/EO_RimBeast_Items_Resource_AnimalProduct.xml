@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: raptor egg (fert.) -->
+  <EggFRaptorFertilized.label>raptor egg (fert.)</EggFRaptorFertilized.label>
+  <!-- EN: Fertilized raptor egg. If all goes well, it should hatch into a baby feather raptor. It can be eaten raw, but it's much better cooked. -->
+  <EggFRaptorFertilized.description>Fertilized raptor egg. If all goes well, it should hatch into a baby feather raptor. It can be eaten raw, but it's much better cooked.</EggFRaptorFertilized.description>
+  <!-- EN: raptor egg (unfert.) -->
+  <EggFRaptorUnFertilized.label>raptor egg (unfert.)</EggFRaptorUnFertilized.label>
+  <!-- EN: Unfertilized raptor egg. It can be eaten raw, but it's much better cooked. -->
+  <EggFRaptorUnFertilized.description>Unfertilized raptor egg. It can be eaten raw, but it's much better cooked.</EggFRaptorUnFertilized.description>
+  <!-- EN: fortress turtle egg (fert.) -->
+  <EggFTurtleFertilized.label>fortress turtle egg (fert.)</EggFTurtleFertilized.label>
+  <!-- EN: Fertilized fortress turtle egg. If all goes well, it should hatch into a baby fortress turtle. It can be eaten raw, but it's much better cooked. -->
+  <EggFTurtleFertilized.description>Fertilized fortress turtle egg. If all goes well, it should hatch into a baby fortress turtle. It can be eaten raw, but it's much better cooked.</EggFTurtleFertilized.description>
+  <!-- EN: fortress turtle egg (unfert.) -->
+  <EggFTurtleUnFertilized.label>fortress turtle egg (unfert.)</EggFTurtleUnFertilized.label>
+  <!-- EN: Unfertilized fortress turtle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggFTurtleUnFertilized.description>Unfertilized fortress turtle egg. It can be eaten raw, but it's much better cooked.</EggFTurtleUnFertilized.description>
+</LanguageData>

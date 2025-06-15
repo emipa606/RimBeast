@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: feather raptor -->
+  <FRaptor.label>feather raptor</FRaptor.label>
+  <!-- EN: Quiet and cunning, elegant but ruthless, these reptile species were originally developed to resolve warg increasing problem. Fortunately, after someone realized that adding another alpha predator doesn't help already broken ecosystem, the project was canceled. After the original project cancelled, scientists started a new product development project, which making a pet of rich people. Because of that, now these raptors have colorful feathers. -->
+  <FRaptor.description>Quiet and cunning, elegant but ruthless, these reptile species were originally developed to resolve warg increasing problem. Fortunately, after someone realized that adding another alpha predator doesn't help already broken ecosystem, the project was canceled. After the original project cancelled, scientists started a new product development project, which making a pet of rich people. Because of that, now these raptors have colorful feathers.</FRaptor.description>
+  <!-- EN: left leg claw -->
+  <FRaptor.tools.left_leg_claw.label>left leg claw</FRaptor.tools.left_leg_claw.label>
+  <!-- EN: right leg claw -->
+  <FRaptor.tools.right_leg_claw.label>right leg claw</FRaptor.tools.right_leg_claw.label>
+  <!-- EN: left claw -->
+  <FRaptor.tools.left_claw.label>left claw</FRaptor.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <FRaptor.tools.right_claw.label>right claw</FRaptor.tools.right_claw.label>
+  <!-- EN: fortress turtle -->
+  <FTurtle.label>fortress turtle</FTurtle.label>
+  <!-- EN: The fortress turtle is a living citadel. Designed to moving bunker, this behemoth estimated to be created for protecting soldiers while mechanoid invasion. Fort turtle has periodically harvestable shells. This shell furnishes material for military composite alloy. Reliable protector and strong porter, fort turtle will be your great companion. -->
+  <FTurtle.description>The fortress turtle is a living citadel. Designed to moving bunker, this behemoth estimated to be created for protecting soldiers while mechanoid invasion. Fort turtle has periodically harvestable shells. This shell furnishes material for military composite alloy. Reliable protector and strong porter, fort turtle will be your great companion.</FTurtle.description>
+  <!-- EN: beak -->
+  <FTurtle.tools.beak.label>beak</FTurtle.tools.beak.label>
+</LanguageData>

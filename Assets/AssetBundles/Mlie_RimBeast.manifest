@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2039703000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b71bcdc1c6e9cd05c9ff732151b901f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2b71bcdc1c6e9cd05c9ff732151b901f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Items/Exotic/Feather_FeatherRaptor/Feather_FeatherRaptor.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Animal/FortressTurtle/Base/FortressTurtle_south.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Insect/Gnawler/Base/Gnawler_north.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Things/Rfeather.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Animal/FeatherRaptor/Base/FeatherRaptor_east.png
+- Assets/Data/Mlie.RimBeast/Sounds/RimBeast/Things/RaptorDead.wav
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Insect/Gnawler/Base/Gnawler_east.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Insect/Gnawler/Base/Gnawler_south.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Animal/FeatherRaptor/Base/FeatherRaptor_south.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Animal/FortressTurtle/Base/FortressTurtle_north.png
+- Assets/Data/Mlie.RimBeast/Sounds/RimBeast/Things/RaptorWound.wav
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Insect/Antis/Base/Antis_north.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Insect/Antis/Base/Antis_south.png
+- Assets/Data/Mlie.RimBeast/Sounds/RimBeast/Things/RaptorAngry.wav
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Animal/FortressTurtle/Base/FortressTurtle_east.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Animal/FeatherRaptor/Base/FeatherRaptor_north.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Items/Exotic/Shell_FortressTurtle/Shell_FortressTurtle.png
+- Assets/Data/Mlie.RimBeast/Sounds/RimBeast/Things/RaptorCall.wav
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Pawn/Insect/Antis/Base/Antis_east.png
+- Assets/Data/Mlie.RimBeast/Textures/RimBeast/Things/FTurtleShell.png
+Dependencies: []

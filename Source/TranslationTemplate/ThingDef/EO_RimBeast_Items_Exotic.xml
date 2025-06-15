@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: shell (fortress turtle) -->
+  <FTurtleShell.label>shell (fortress turtle)</FTurtleShell.label>
+  <!-- EN: A shell that was harvested from fortress turtle. Light, but as strong metal, this organic super material is used for building various arms and armor. -->
+  <FTurtleShell.description>A shell that was harvested from fortress turtle. Light, but as strong metal, this organic super material is used for building various arms and armor.</FTurtleShell.description>
+  <!-- EN: raptor feather -->
+  <Rfeather.label>raptor feather</Rfeather.label>
+  <!-- EN: Colorful feathers that harvested from feather raptor. The feathers are very useful in the design of apparel for their ability to both insulate against cold and easily breathe against heat. -->
+  <Rfeather.description>Colorful feathers that harvested from feather raptor. The feathers are very useful in the design of apparel for their ability to both insulate against cold and easily breathe against heat.</Rfeather.description>
+</LanguageData>

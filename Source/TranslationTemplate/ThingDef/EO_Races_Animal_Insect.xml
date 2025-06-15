@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antis -->
+  <Antis.label>antis</Antis.label>
+  <!-- EN: A quiet stalker and merciless killer, the ant mantis is a warrior caste of the insectoid hive. This species were created to beat the Mechanoid invasion, but it is dangerous to people, too. A social creature, it cannot reproduce individually. -->
+  <Antis.description>A quiet stalker and merciless killer, the ant mantis is a warrior caste of the insectoid hive. This species were created to beat the Mechanoid invasion, but it is dangerous to people, too. A social creature, it cannot reproduce individually.</Antis.description>
+  <!-- EN: mandibles -->
+  <Antis.tools.mandibles.label>mandibles</Antis.tools.mandibles.label>
+  <!-- EN: left foreleg -->
+  <Antis.tools.left_foreleg.label>left foreleg</Antis.tools.left_foreleg.label>
+  <!-- EN: right foreleg -->
+  <Antis.tools.right_foreleg.label>right foreleg</Antis.tools.right_foreleg.label>
+  <!-- EN: gnawler -->
+  <Gnawler.label>gnawler</Gnawler.label>
+  <!-- EN: A "grunt" caste of the insectoid hive, gnawler is a much smaller than other warrior caste, and on its own it doesn't seem dangerous. However, if many gnawlers are grouped together, things change. A social creature, it cannot reproduce individually. -->
+  <Gnawler.description>A "grunt" caste of the insectoid hive, gnawler is a much smaller than other warrior caste, and on its own it doesn't seem dangerous. However, if many gnawlers are grouped together, things change. A social creature, it cannot reproduce individually.</Gnawler.description>
+  <!-- EN: mandibles -->
+  <Gnawler.tools.mandibles.label>mandibles</Gnawler.tools.mandibles.label>
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fort turtle -->
+  <FortTurtle.label>fort turtle</FortTurtle.label>
+  <FortTurtle.labelFemale />
+  <FortTurtle.labelFemalePlural />
+  <FortTurtle.labelMale />
+  <FortTurtle.labelMalePlural />
+  <FortTurtle.labelPlural />
+  <FortTurtle.lifeStages.0.label />
+  <FortTurtle.lifeStages.0.labelFemale />
+  <FortTurtle.lifeStages.0.labelFemalePlural />
+  <FortTurtle.lifeStages.0.labelMale />
+  <FortTurtle.lifeStages.0.labelMalePlural />
+  <FortTurtle.lifeStages.0.labelPlural />
+  <FortTurtle.lifeStages.1.label />
+  <FortTurtle.lifeStages.1.labelFemale />
+  <FortTurtle.lifeStages.1.labelFemalePlural />
+  <FortTurtle.lifeStages.1.labelMale />
+  <FortTurtle.lifeStages.1.labelMalePlural />
+  <FortTurtle.lifeStages.1.labelPlural />
+  <FortTurtle.lifeStages.2.label />
+  <FortTurtle.lifeStages.2.labelFemale />
+  <FortTurtle.lifeStages.2.labelFemalePlural />
+  <FortTurtle.lifeStages.2.labelMale />
+  <FortTurtle.lifeStages.2.labelMalePlural />
+  <FortTurtle.lifeStages.2.labelPlural />
+  <!-- EN: raptor -->
+  <FRaptor.label>raptor</FRaptor.label>
+  <FRaptor.labelFemale />
+  <FRaptor.labelFemalePlural />
+  <FRaptor.labelMale />
+  <FRaptor.labelMalePlural />
+  <FRaptor.labelPlural />
+  <!-- EN: baby raptor -->
+  <FRaptor.lifeStages.baby_raptor.label>baby raptor</FRaptor.lifeStages.baby_raptor.label>
+  <FRaptor.lifeStages.baby_raptor.labelFemale />
+  <FRaptor.lifeStages.baby_raptor.labelFemalePlural />
+  <FRaptor.lifeStages.baby_raptor.labelMale />
+  <FRaptor.lifeStages.baby_raptor.labelMalePlural />
+  <FRaptor.lifeStages.baby_raptor.labelPlural />
+  <FRaptor.lifeStages.1.label />
+  <FRaptor.lifeStages.1.labelFemale />
+  <FRaptor.lifeStages.1.labelFemalePlural />
+  <FRaptor.lifeStages.1.labelMale />
+  <FRaptor.lifeStages.1.labelMalePlural />
+  <FRaptor.lifeStages.1.labelPlural />
+  <FRaptor.lifeStages.2.label />
+  <FRaptor.lifeStages.2.labelFemale />
+  <FRaptor.lifeStages.2.labelFemalePlural />
+  <FRaptor.lifeStages.2.labelMale />
+  <FRaptor.lifeStages.2.labelMalePlural />
+  <FRaptor.lifeStages.2.labelPlural />
+</LanguageData>

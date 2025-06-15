@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antis -->
+  <Antis.label>antis</Antis.label>
+  <Antis.labelFemale />
+  <Antis.labelFemalePlural />
+  <Antis.labelMale />
+  <Antis.labelMalePlural />
+  <Antis.labelPlural />
+  <Antis.lifeStages.0.label />
+  <Antis.lifeStages.0.labelFemale />
+  <Antis.lifeStages.0.labelFemalePlural />
+  <Antis.lifeStages.0.labelMale />
+  <Antis.lifeStages.0.labelMalePlural />
+  <Antis.lifeStages.0.labelPlural />
+  <Antis.lifeStages.1.label />
+  <Antis.lifeStages.1.labelFemale />
+  <Antis.lifeStages.1.labelFemalePlural />
+  <Antis.lifeStages.1.labelMale />
+  <Antis.lifeStages.1.labelMalePlural />
+  <Antis.lifeStages.1.labelPlural />
+  <Antis.lifeStages.2.label />
+  <Antis.lifeStages.2.labelFemale />
+  <Antis.lifeStages.2.labelFemalePlural />
+  <Antis.lifeStages.2.labelMale />
+  <Antis.lifeStages.2.labelMalePlural />
+  <Antis.lifeStages.2.labelPlural />
+  <!-- EN: gnawler -->
+  <Gnawler.label>gnawler</Gnawler.label>
+  <Gnawler.labelFemale />
+  <Gnawler.labelFemalePlural />
+  <Gnawler.labelMale />
+  <Gnawler.labelMalePlural />
+  <Gnawler.labelPlural />
+  <Gnawler.lifeStages.0.label />
+  <Gnawler.lifeStages.0.labelFemale />
+  <Gnawler.lifeStages.0.labelFemalePlural />
+  <Gnawler.lifeStages.0.labelMale />
+  <Gnawler.lifeStages.0.labelMalePlural />
+  <Gnawler.lifeStages.0.labelPlural />
+  <Gnawler.lifeStages.1.label />
+  <Gnawler.lifeStages.1.labelFemale />
+  <Gnawler.lifeStages.1.labelFemalePlural />
+  <Gnawler.lifeStages.1.labelMale />
+  <Gnawler.lifeStages.1.labelMalePlural />
+  <Gnawler.lifeStages.1.labelPlural />
+  <Gnawler.lifeStages.2.label />
+  <Gnawler.lifeStages.2.labelFemale />
+  <Gnawler.lifeStages.2.labelFemalePlural />
+  <Gnawler.lifeStages.2.labelMale />
+  <Gnawler.lifeStages.2.labelMalePlural />
+  <Gnawler.lifeStages.2.labelPlural />
+</LanguageData>

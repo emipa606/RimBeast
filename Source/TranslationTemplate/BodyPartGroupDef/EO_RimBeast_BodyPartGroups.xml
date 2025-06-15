@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: left foreleg -->
+  <LeftAntisForeleg.label>left foreleg</LeftAntisForeleg.label>
+  <!-- EN: left leg claws -->
+  <LeftLegClaws.label>left leg claws</LeftLegClaws.label>
+  <!-- EN: right foreleg -->
+  <RightAntisForeleg.label>right foreleg</RightAntisForeleg.label>
+  <!-- EN: right leg claws -->
+  <RightLegClaws.label>right leg claws</RightLegClaws.label>
+</LanguageData>

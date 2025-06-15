@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: FTurtleLike -->
+  <FTurtleLike.label>FTurtleLike</FTurtleLike.label>
+  <!-- EN: left lung -->
+  <FTurtleLike.corePart.parts.left_lung.customLabel>left lung</FTurtleLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <FTurtleLike.corePart.parts.right_lung.customLabel>right lung</FTurtleLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <FTurtleLike.corePart.parts.left_kidney.customLabel>left kidney</FTurtleLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <FTurtleLike.corePart.parts.right_kidney.customLabel>right kidney</FTurtleLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <FTurtleLike.corePart.parts.Head.parts.left_eye.customLabel>left eye</FTurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <FTurtleLike.corePart.parts.Head.parts.right_eye.customLabel>right eye</FTurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <FTurtleLike.corePart.parts.front_left_leg.customLabel>front left leg</FTurtleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <FTurtleLike.corePart.parts.front_right_leg.customLabel>front right leg</FTurtleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <FTurtleLike.corePart.parts.rear_left_leg.customLabel>rear left leg</FTurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <FTurtleLike.corePart.parts.rear_right_leg.customLabel>rear right leg</FTurtleLike.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: RaptorLike -->
+  <RaptorLike.label>RaptorLike</RaptorLike.label>
+  <!-- EN: left lung -->
+  <RaptorLike.corePart.parts.left_lung.customLabel>left lung</RaptorLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <RaptorLike.corePart.parts.right_lung.customLabel>right lung</RaptorLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <RaptorLike.corePart.parts.left_kidney.customLabel>left kidney</RaptorLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <RaptorLike.corePart.parts.right_kidney.customLabel>right kidney</RaptorLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <RaptorLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</RaptorLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <RaptorLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</RaptorLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left arm -->
+  <RaptorLike.corePart.parts.left_arm.customLabel>left arm</RaptorLike.corePart.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <RaptorLike.corePart.parts.left_arm.parts.left_hand.customLabel>left hand</RaptorLike.corePart.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: right arm -->
+  <RaptorLike.corePart.parts.right_arm.customLabel>right arm</RaptorLike.corePart.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <RaptorLike.corePart.parts.right_arm.parts.right_hand.customLabel>right hand</RaptorLike.corePart.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: left leg -->
+  <RaptorLike.corePart.parts.left_leg.customLabel>left leg</RaptorLike.corePart.parts.left_leg.customLabel>
+  <!-- EN: left main claw -->
+  <RaptorLike.corePart.parts.left_leg.parts.left_main_claw.customLabel>left main claw</RaptorLike.corePart.parts.left_leg.parts.left_main_claw.customLabel>
+  <!-- EN: left second claw -->
+  <RaptorLike.corePart.parts.left_leg.parts.left_second_claw.customLabel>left second claw</RaptorLike.corePart.parts.left_leg.parts.left_second_claw.customLabel>
+  <!-- EN: left third claw -->
+  <RaptorLike.corePart.parts.left_leg.parts.left_third_claw.customLabel>left third claw</RaptorLike.corePart.parts.left_leg.parts.left_third_claw.customLabel>
+  <!-- EN: left fourth claw -->
+  <RaptorLike.corePart.parts.left_leg.parts.left_fourth_claw.customLabel>left fourth claw</RaptorLike.corePart.parts.left_leg.parts.left_fourth_claw.customLabel>
+  <!-- EN: right leg -->
+  <RaptorLike.corePart.parts.right_leg.customLabel>right leg</RaptorLike.corePart.parts.right_leg.customLabel>
+  <!-- EN: right main claw -->
+  <RaptorLike.corePart.parts.right_leg.parts.right_main_claw.customLabel>right main claw</RaptorLike.corePart.parts.right_leg.parts.right_main_claw.customLabel>
+  <!-- EN: right second claw -->
+  <RaptorLike.corePart.parts.right_leg.parts.right_second_claw.customLabel>right second claw</RaptorLike.corePart.parts.right_leg.parts.right_second_claw.customLabel>
+  <!-- EN: right third claw -->
+  <RaptorLike.corePart.parts.right_leg.parts.right_third_claw.customLabel>right third claw</RaptorLike.corePart.parts.right_leg.parts.right_third_claw.customLabel>
+  <!-- EN: right fourth claw -->
+  <RaptorLike.corePart.parts.right_leg.parts.right_fourth_claw.customLabel>right fourth claw</RaptorLike.corePart.parts.right_leg.parts.right_fourth_claw.customLabel>
+</LanguageData>

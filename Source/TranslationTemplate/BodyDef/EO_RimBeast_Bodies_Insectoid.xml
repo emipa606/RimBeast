@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antis -->
+  <Antis.label>antis</Antis.label>
+  <!-- EN: left elytra -->
+  <Antis.corePart.parts.left_elytra.customLabel>left elytra</Antis.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <Antis.corePart.parts.right_elytra.customLabel>right elytra</Antis.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left foreleg -->
+  <Antis.corePart.parts.Pronotum.parts.left_foreleg.customLabel>left foreleg</Antis.corePart.parts.Pronotum.parts.left_foreleg.customLabel>
+  <!-- EN: right foreleg -->
+  <Antis.corePart.parts.Pronotum.parts.right_foreleg.customLabel>right foreleg</Antis.corePart.parts.Pronotum.parts.right_foreleg.customLabel>
+  <!-- EN: left eye -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>left eye</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>right eye</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>left antenna</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>right antenna</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <Antis.corePart.parts.front_left_leg.customLabel>front left leg</Antis.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <Antis.corePart.parts.front_right_leg.customLabel>front right leg</Antis.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <Antis.corePart.parts.rear_left_leg.customLabel>rear left leg</Antis.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <Antis.corePart.parts.rear_right_leg.customLabel>rear right leg</Antis.corePart.parts.rear_right_leg.customLabel>
+</LanguageData>
